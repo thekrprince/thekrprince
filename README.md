@@ -11,6 +11,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋 I'm Prince
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Prince
 
-I'm a Software Developer.
+### I'm a Software Developer and Blogger.
+
+- 🔭 I’m currently working on [Todo Fullstack App](https://github.com/PayalSasmal10/ToDo-FullStack)
+- 🌱 I’m currently learning NodeJS, NextJS and Azure.
+
+## My latest blog post
+- [Spread operator, Rest Operator & Destructuring in JS](https://dev.to/princekr700/spread-operator-rest-operator-destructuring-in-js-4nbg)
+- [Basic git commands every developer should know](https://dev.to/princekr700/basic-git-commands-every-developer-should-know-1854)
+
+## Let's connect
+- [Linkedin](https://www.linkedin.com/in/kumar-prince-697650b1/)
+- [Twitter](https://twitter.com/princekr700)
+- [DEV](https://dev.to/princekr700)
