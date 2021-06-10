@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Todo Fullstack App](https://github.com/PayalSasmal10/ToDo-FullStack)
 - 🌱 I’m currently learning NodeJS, NextJS and Azure.
 
+
 <h2 align="center">Tech Stack</h2>
   <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -42,11 +43,13 @@ Here are some ideas to get you started:
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </p>
 
+
 <h2 align="center">My latest blog post</h2>
 <ul align="center" list-style-position="inside">
   <li><a href="https://dev.to/princekr700/spread-operator-rest-operator-destructuring-in-js-4nbg">Spread operator, Rest Operator & Destructuring in JS</a></li>
   <li><a href="https://dev.to/princekr700/basic-git-commands-every-developer-should-know-1854">Basic git commands every developer should know</a></li>
 </ul>
+
 
 <h2 align="center">My GitHub Stats</h2>
 
@@ -62,7 +65,16 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app/?username=princekr96&theme=gruvbox">
 </p>
 
-### Let's connect
+
+<h2 align="center">Connect me on</h2>
+
+<p align="center">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img alt="Twitter" src="https://img.shields.io/badge/<princekr700>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" >
+  <img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-princekr700?style=for-the-badge&logo=dev.to&logoColor=white" >
+</p>
+
+<!-- ### Let's connect
 - [Linkedin](https://www.linkedin.com/in/kumar-prince-697650b1/)
 - [Twitter](https://twitter.com/princekr700)
-- [DEV](https://dev.to/princekr700)
+- [DEV](https://dev.to/princekr700) -->
