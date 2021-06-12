@@ -61,6 +61,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kumar-prince-697650b1/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/princekr700"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" ></a>
   <a href="https://dev.to/princekr700"><img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-princekr700?style=for-the-badge&logo=dev.to&logoColor=white" ></a>
+  <a href="https://twitter.com/princekr700"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" ></a>
 </p>
