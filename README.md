@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 [![MasterHead](https://github.com/princekr96/princekr96/blob/main/images/banner-new.png)](https://github.com/princekr96/princekr96/blob/main/images/banner-new.png)
 
 
+<p align="center">I am currently working as a Frontend Developer in Fractal Analytics, Bangalore IN. I love creating Web Application and right now I am doing #100DaysOfCode challenge where I'll be developing the small to large size of projects. My goal is to make grasp on backend and cloud as well.</p>
+
+
 <h2 align="center">Tech Stack</h2>
   <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
