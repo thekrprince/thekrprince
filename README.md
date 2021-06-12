@@ -53,10 +53,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekr96&&langs_count=3&&theme=dark">
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=princekr96&theme=gruvbox">
-</p>
-
 
 <h2 align="center">Connect me on</h2>
 
