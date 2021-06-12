@@ -13,14 +13,6 @@ Here are some ideas to get you started:
 
 [![MasterHead](https://github.com/princekr96/princekr96/blob/main/images/banner-new.png)](https://github.com/princekr96/princekr96/blob/main/images/banner-new.png)
 
-## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Prince
-![](https://komarev.com/ghpvc/?username=princekr96)
-
-### I'm a Software Developer and Blogger.
-
-- 🔭 I’m currently working on [Todo Fullstack App](https://github.com/PayalSasmal10/ToDo-FullStack)
-- 🌱 I’m currently learning NodeJS, NextJS and Azure.
-
 
 <h2 align="center">Tech Stack</h2>
   <p align="center">
@@ -73,8 +65,3 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/princekr700"><img alt="Twitter" src="https://img.shields.io/badge/<princekr700>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" ></a>
   <a href="https://dev.to/princekr700"><img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-princekr700?style=for-the-badge&logo=dev.to&logoColor=white" ></a>
 </p>
-
-<!-- ### Let's connect
-- [Linkedin](https://www.linkedin.com/in/kumar-prince-697650b1/)
-- [Twitter](https://twitter.com/princekr700)
-- [DEV](https://dev.to/princekr700) -->
