@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](https://github.com/princekr96/princekr96/blob/main/images/banner.png)](https://github.com/princekr96/princekr96/blob/main/images/banner.png)
+[![MasterHead](https://github.com/princekr96/princekr96/blob/main/images/banner-new.png)](https://github.com/princekr96/princekr96/blob/main/images/banner-new.png)
 
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Prince
 ![](https://komarev.com/ghpvc/?username=princekr96)
