@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](https://github.com/princekr96/princekr96/blob/main/images/banner-new.png)](https://github.com/princekr96/princekr96/blob/main/images/banner-new.png)
+[![MasterHead](https://github.com/thekrprince/thekrprince/blob/main/images/banner-new.png)](https://github.com/thekrprince/thekrprince/blob/main/images/banner-new.png)
 
 
 <p align="center">I am currently working as a <b><i>Frontend Developer</i></b> in <b>Fractal Analytics, Bangalore IN.</b> I ♥ creating <b><i>Web Applications</b></i> and right now I am doing <b>#100DaysOfCode challenge</b> where I'll be developing the small to large size of projects. My goal is to make grasp on backend and cloud as well.</p>
@@ -40,26 +40,26 @@ Here are some ideas to get you started:
 
 <h2 align="center">My latest blog post</h2>
 <ul align="center" list-style-position="inside">
-  <li><a href="https://dev.to/princekr700/spread-operator-rest-operator-destructuring-in-js-4nbg">Spread operator, Rest Operator & Destructuring in JS</a></li>
-  <li><a href="https://dev.to/princekr700/basic-git-commands-every-developer-should-know-1854">Basic git commands every developer should know</a></li>
+  <li><a href="https://dev.to/thekrprince/spread-operator-rest-operator-destructuring-in-js-4nbg">Spread operator, Rest Operator & Destructuring in JS</a></li>
+  <li><a href="https://dev.to/thekrprince/basic-git-commands-every-developer-should-know-1854">Basic git commands every developer should know</a></li>
 </ul>
 
 
 <h2 align="center">My GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princekr96&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=thekrprince&show_icons=true&theme=dark">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekr96&&langs_count=4&&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekrprince&&langs_count=4&&theme=dark">
 </p>
 
 
 <h2 align="center">Connect me on</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kumar-prince-697650b1/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://dev.to/princekr700"><img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-princekr700?style=for-the-badge&logo=dev.to&logoColor=white" ></a>
-  <a href="https://twitter.com/princekr700"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" ></a>
+  <a href="https://www.linkedin.com/in/thekrprince/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://dev.to/thekrprince"><img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-thekrprince?style=for-the-badge&logo=dev.to&logoColor=white" ></a>
+  <a href="https://twitter.com/thekrprince"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" ></a>
 </p>
