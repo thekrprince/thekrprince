@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 [![MasterHead](https://github.com/thekrprince/thekrprince/blob/main/images/banner-new.png)](https://github.com/thekrprince/thekrprince/blob/main/images/banner-new.png)
 
 
-<p align="center">I am currently working as a <b><i>Frontend Developer</i></b> in <b>Fractal Analytics, Bangalore IN.</b> I ♥ creating <b><i>Web Applications</b></i> and right now I am doing <b>#100DaysOfCode challenge</b> where I'll be developing the small to large size of projects. My goal is to make grasp on backend and cloud as well.</p>
+<p align="center">I am currently working as a <b><i>Frontend Developer</i></b> in <b>Fractal Analytics, Bangalore IN.</b> I ♥ creating <b><i>Web Applications</b></i> and right now I am doing <b>#100DaysOfCode challenge</b> where I am developing the small to large size of projects. My goal is to make grasp on backend and cloud as well.</p>
 
 
 <h2 align="center">Tech Stack</h2>
