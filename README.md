@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">My latest blog post</h2>
 <ul align="center" list-style-position="inside">
-  <li><a href="https://dev.to/thekrprince/spread-operator-rest-operator-destructuring-in-js-4nbg">Spread operator, Rest Operator & Destructuring in JS</a></li>
+  <li><a href="https://blog.krprince.com/favicon-in-fullstack/">Updating favicon in Fullstack(React + Django) Application</a></li>
   <li><a href="https://dev.to/thekrprince/basic-git-commands-every-developer-should-know-1854">Basic git commands every developer should know</a></li>
 </ul>
 
