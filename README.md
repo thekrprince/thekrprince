@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 </p>
 
 <h2 align="center">Someone stop my contribution graph from being eaten</h2>
+
 ![Snake animation](https://github.com/thekrprince/thekrprince/blob/output/github-contribution-grid-snake.svg)
 
 <h2 align="center">Connect me on</h2>
