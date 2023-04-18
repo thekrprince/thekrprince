@@ -56,6 +56,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekrprince&&langs_count=5&&theme=tokyonight">
 </p>
 
+## Someone's stop my contribution graph from being eaten
+
 ![Snake animation](https://github.com/thekrprince/thekrprince/blob/output/github-contribution-grid-snake.svg)
 
 <h2 align="center">Connect me on</h2>
