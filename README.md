@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekrprince&&langs_count=5&&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekrprince&&langs_count=5&&theme=tokyonight">
 </p>
 
 ![Snake animation](https://github.com/thekrprince/thekrprince/blob/output/github-contribution-grid-snake.svg)
