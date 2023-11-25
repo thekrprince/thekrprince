@@ -11,9 +11,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](https://github.com/thekrprince/thekrprince/blob/main/images/banner-new.png)](https://github.com/thekrprince/thekrprince/blob/main/images/banner-new.png)
-
-
 <p align="center">I am currently working as a <b><i>Fullstack Developer(MERN)</i></b> in <b>Walmart, Bangalore IN.</b> I ♥ creating <b><i>Web Applications.</b></i></p>
 
 
