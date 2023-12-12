@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   !
 </h1>
 
-<p align="center">I am currently working as a <b><i>Fullstack Developer(MERN)</i></b> in <b>Walmart, Bangalore IN.</b> I ♥ creating <b><i>Web Applications.</b></i></p>
+<p align="center">I am currently working as a <b><i>Fullstack Developer(MERN)</i></b> in <b>Walmart, Bangalore IN.</b> I ♥ creating <b><I><font color="red">Web Applications.</font></b></i></p>
 
 
 <h2 align="center">Tech Stack</h2>
