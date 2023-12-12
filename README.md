@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi👋, This is 
-  <font color="#FF2626">P</font>
+  <span style="color: #FF2626">P</span>
   <font color="#753422">r</font>
   <font color="#FFD523">i</font>
   <font color="#0F52BA">n</font>
