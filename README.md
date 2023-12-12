@@ -10,7 +10,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi👋, This is Prince!</h1>
+<h1 align="center">Hi👋, This is 
+  <font color="#FF2626">P</font>
+  <font color="#753422">r</font>
+  <font color="#FFD523">i</font>
+  <font color="#0F52BA">n</font>
+  <font color="#66CC66">c</font>
+  <font color="#00C1D4">e</font>
+  !
+</h1>
 
 <p align="center">I am currently working as a <b><i>Fullstack Developer(MERN)</i></b> in <b>Walmart, Bangalore IN.</b> I ♥ creating <b><i>Web Applications.</b></i></p>
 
