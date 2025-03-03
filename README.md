@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi👋, My name is Prince!</h1>
+<h1 align="center">Hi👋, This is Prince!</h1>
 
 <p align="center">I am currently working as a <b><i>Fullstack Developer(MERN)</i></b> in <b>Walmart, Bangalore IN.</b> I ♥ creating <b><I><font color="red">Web Applications.</font></b></i></p>
 
