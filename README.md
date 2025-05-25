@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi👋, This is Prince!</h1>
 
-<p align="center">I am currently working as a <b><i>Software Engineer 3</i></b> in <b>Walmart</b> with 7+ years of experience in building scalable and intuitive web applications.</p>
+<p align="center">I am currently working as a <b><i>Software Engineer 3</i></b> in <b>Walmart</b> with 7+ years of experience in building scalable and intuitive web applications. I specialize in <b>React, TypeScript, Next.js,</b> and <b>GraphQL</b>, with a strong focus on clean architecture and performance.</p>
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">Tech Stack which I am working on and aware of</h2>
   <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   </p>
 
 
-<h2 align="center">My latest blog post</h2>
+<h2 align="center">Some of my blog links</h2>
 <ul align="center" list-style-position="inside">
   <li><a href="https://blog.krprince.com/favicon-in-fullstack/">Updating favicon in Fullstack(React + Django) Application</a></li>
   <li><a href="https://dev.to/thekrprince/basic-git-commands-every-developer-should-know-1854">Basic git commands every developer should know</a></li>
