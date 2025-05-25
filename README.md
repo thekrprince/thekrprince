@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi👋, This is Prince!</h1>
 
-<p align="center">I am currently working as a <b><i>Software Engineer 3</i></b> in <b>Walmart, Bangalore IN.</b> I ♥ creating <b><I><font color="red">Web Applications.</font></b></i></p>
-
+<p align="center">I am currently working as a <b><i>Software Engineer 3</i></b> in <b>Walmart</b> with 7+ years of experience in building scalable and intuitive web applications.</p>
 
 <h2 align="center">Tech Stack</h2>
   <p align="center">
