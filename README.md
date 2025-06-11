@@ -35,8 +35,6 @@ Here are some ideas to get you started:
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </p>
 
-<h2>You can know more about me in details here -> https://thekrprince.com</h2>
-
 <h2 align="center">Some of my blog links</h2>
 <ul align="center" list-style-position="inside">
   <li><a href="https://blog.krprince.com/favicon-in-fullstack/">Updating favicon in Fullstack(React + Django) Application</a></li>
