@@ -3,7 +3,7 @@
 <p><b>I am a Frontend Developer who aims to develop a performant application.</b></p>
 
 <h2>Writing</h2>
-<p>I have written some blogs which you can read on <a href="https://blog.thekrprince.com/"></a></p>
+<p>I have written some blogs which you can read on <a href="https://blog.thekrprince.com/">my blog site</a></p>
 
 <h2>Social📱</h2>
 
