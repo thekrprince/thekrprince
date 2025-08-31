@@ -4,7 +4,7 @@
 
 <h2>Writing</h2>
 
-<p>I have written some blogs which you can read on <a href="https://blog.thekrprince.com/">my blog site</a></p>
+<p>I have written some blogs which you can read <a href="https://blog.thekrprince.com/">here</a></p>
 
 <h2 align="center">My GitHub Stats</h2>
 
