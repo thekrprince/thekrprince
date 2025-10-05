@@ -2,7 +2,7 @@
 
 <p align="center">I am currently working as a <b><i>Software Engineer 3</i></b> in <b>Walmart</b> with 8+ years of experience in building scalable and intuitive web applications. I specialize in <b>React, TypeScript, Next.js,</b> and <b>GraphQL</b>, with a strong focus on clean architecture and performance.</p>
 
-<h2 align="center">Tech Stack which I am working on</h2>
+<h2 align="center">Tech Stack I know</h2>
   <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
