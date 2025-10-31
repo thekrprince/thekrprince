@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, This is Prince!</h1>
+<h1 align="center">Hi👋, This is Prince!!</h1>
 
 <p align="center">I am currently working as a <b><i>Software Engineer 3</i></b> in <b>Walmart</b> with 8+ years of experience in building scalable and intuitive web applications. I specialize in <b>React, TypeScript, Next.js,</b> and <b>GraphQL</b>, with a strong focus on clean architecture and performance.</p>
 
