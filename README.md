@@ -1,8 +1,13 @@
-<h1 align="center">Hi👋, This is Prince!!</h1>
+<h1 align="center">Hi👋, I'm Kumar Prince!!</h1>
 
-<p align="center">I am currently working as a <b><i>Software Engineer 3</i></b> in <b>Walmart</b> with 8+ years of experience in building scalable and intuitive web applications. I specialize in <b>React, TypeScript, Next.js,</b> and <b>GraphQL</b>, with a strong focus on clean architecture and performance.</p>
+<p align="center">A Frontend Engineer building scalable, customer-facing web experiences at **Walmart**.</p>
 
-<h2 align="center">Tech Stack I know</h2>
+- ⚛️ React, TypeScript, Next.js
+- 🧱 Large-scale frontend architecture
+- 🚀 Performance, accessibility & DX
+- 🛒 High-traffic, enterprise-grade products
+
+<!-- <h2 align="center">Tech Stack I know</h2>
   <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -21,7 +26,7 @@
   <img alt="Ant-Design" src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </p>
+  </p> -->
 
 <h2 align="center">Some of my blogs</h2>
 <ul align="center" list-style-position="inside">
@@ -32,13 +37,9 @@
 
 <h2 align="center">My GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thekrprince&show_icons=true&theme=transparent">
-</p>
+![Kumar Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=thekrprince&show_icons=true&hide_title=true&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekrprince&&langs_count=5&&theme=tokyonight">
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
 
 <h2 align="center">Connect me on</h2>
 
