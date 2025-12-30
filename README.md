@@ -1,6 +1,6 @@
 <h1>Hi👋, I'm Kumar Prince!!</h1>
 
-<p>A Frontend Engineer building scalable, customer-facing web experiences at **Walmart**.</p>
+A Frontend Engineer building scalable, customer-facing web experiences at **Walmart**.
 
 - ⚛️ React, TypeScript, Next.js
 - 🧱 Large-scale frontend architecture
