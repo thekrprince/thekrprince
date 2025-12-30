@@ -28,8 +28,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </p> -->
 
-<h2 align="center">Connect me on</h2>
-
+📫 Connect:
 <p>
   <a href="https://twitter.com/thekrprince"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" ></a>
   <a href="https://www.linkedin.com/in/thekrprince/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
