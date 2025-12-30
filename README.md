@@ -1,6 +1,6 @@
-<h1 align="center">Hi👋, I'm Kumar Prince!!</h1>
+<h1>Hi👋, I'm Kumar Prince!!</h1>
 
-<p align="center">A Frontend Engineer building scalable, customer-facing web experiences at **Walmart**.</p>
+<p>A Frontend Engineer building scalable, customer-facing web experiences at **Walmart**.</p>
 
 - ⚛️ React, TypeScript, Next.js
 - 🧱 Large-scale frontend architecture
@@ -28,23 +28,10 @@
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </p> -->
 
-<h2 align="center">Some of my blogs</h2>
-<ul align="center" list-style-position="inside">
-  <li><a href="https://blog.krprince.com/favicon-in-fullstack/">Updating favicon in Fullstack(React + Django) Application</a></li>
-  <li><a href="https://dev.to/thekrprince/basic-git-commands-every-developer-should-know-1854">Basic git commands every developer should know</a></li>
-</ul>
-
-
-<h2 align="center">My GitHub Stats</h2>
-
-![Kumar Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=thekrprince&show_icons=true&hide_title=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
-
 <h2 align="center">Connect me on</h2>
 
-<p align="center">
-  <a href="https://twitter.com/thekrprince"><img alt="Twitter" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" ></a>
+<p>
+  <a href="https://twitter.com/thekrprince"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" ></a>
   <a href="https://www.linkedin.com/in/thekrprince/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://dev.to/thekrprince"><img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-thekrprince?style=for-the-badge&logo=dev.to&logoColor=white" ></a>
 </p>
