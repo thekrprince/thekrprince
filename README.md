@@ -2,7 +2,7 @@
 
 A Frontend Engineer building scalable, customer-facing web experiences at **Walmart**.
 
-- ⚛️ React, TypeScript, Next.js
+- ⚛️ React, TypeScript, Next.js, GraphQL
 - 🧱 Large-scale frontend architecture
 - 🚀 Performance, accessibility & DX
 - 🛒 High-traffic, enterprise-grade products
